@@ -1,0 +1,16 @@
+<?php
+
+namespace Botble\Sitemap\Http\Requests;
+
+use Botble\Base\Rules\OnOffRule;
+use Botble\Support\Http\Requests\Request;
+
+class SitemapSettingRequest extends Request
+{
+    public function rules(): array
+    {
+        return [
+            'sitemap_enabled' => [new OnOffRule()],
+        ];
+    }
+}

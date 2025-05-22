@@ -1,0 +1,9 @@
+{
+    "id": "botble/ecoride",
+    "name": "EcoRide",
+    "namespace": "Theme\\EcoRide\\",
+    "author": "Artur Nahirnyi",
+    "url": "https://arthur.wserver.org/",
+    "description": "EcoRide",
+    "required_plugins": []
+}
