@@ -30,8 +30,3 @@ Le versionnage est fait avec Git et le code est stocké sur GitHub.
 ## Lien du site
 
 https://arthur.wserver.org
-
-## Lien du dépôt Git
-
-[à compléter avec ton lien GitHub]
-
